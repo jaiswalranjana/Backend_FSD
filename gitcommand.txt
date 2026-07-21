@@ -4,8 +4,9 @@ git status
 git init
 gid add file name/.
 git commit -m "msg"
-git remote  add origin githubrepo url
 git branch -M main
+git remote  add origin githubrepo url
+
 git push -u origin main
 
 cloud to local repo
