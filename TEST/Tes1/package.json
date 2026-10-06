@@ -1,0 +1,22 @@
+{
+  "name": "fsd_sem3_test1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaiswalranjana/FSD_SEM3_TEST1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/jaiswalranjana/FSD_SEM3_TEST1/issues"
+  },
+  "homepage": "https://github.com/jaiswalranjana/FSD_SEM3_TEST1#readme"
+}
